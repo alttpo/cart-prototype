@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sn74lvc4245a")(type "Legacy")(uri "${KIPRJMOD}/sn74lvc4245a.lib")(options "")(descr ""))
+)
